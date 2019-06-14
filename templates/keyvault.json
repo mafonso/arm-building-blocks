@@ -33,6 +33,7 @@
       }
     }
   ],
+  type
   "outputs": {
     "KeyVaultUri": {
       "type": "string",
